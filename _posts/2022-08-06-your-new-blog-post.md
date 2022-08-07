@@ -1,6 +1,6 @@
-## Introduction to WIRE-LES2
+## Introduction to GPU-accelerated WIRE-LES2 solver
 @author: Mou Lin (mou.lin@epfl.ch),Tristan Revaz(tristan.revaz@epfl.ch)
-https://github.com/moulin1024/WiRE-LES2
+[Github repo](https://github.com/moulin1024/WiRE-LES2)
 
 ### Introduction
 WIRE-LES2 is a large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows. It solves the filtered continuity equation and the filtered Navier-Stokes equations (using the Boussinesq approximation). The numerical method used in this code is based on the PhD thesis of Albertson, 1996 [1] (attached in doc/theory).
