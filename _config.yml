@@ -25,7 +25,9 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+  math_engine: mathjax
+  syntax_highlighter: rouge    
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
